@@ -1,6 +1,6 @@
-# calling_practice
+# Phone Call using Url launcher Example
 
-A new Flutter project.
+A new Flutter project for Phone Call using [Url_launcher](https://pub.dev/packages/url_launcher).
 
 ## Getting Started
 
